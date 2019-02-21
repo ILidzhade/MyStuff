@@ -1,0 +1,9 @@
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\bin\Debug\netcoreapp1.1\Problems.deps.json
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\bin\Debug\netcoreapp1.1\Problems.runtimeconfig.json
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\bin\Debug\netcoreapp1.1\Problems.runtimeconfig.dev.json
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\obj\Debug\netcoreapp1.1\Problems.csproj.CoreCompileInputs.cache
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\obj\Debug\netcoreapp1.1\Problems.AssemblyInfo.cs
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\bin\Debug\netcoreapp1.1\Problems.dll
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\bin\Debug\netcoreapp1.1\Problems.pdb
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\obj\Debug\netcoreapp1.1\Problems.dll
+C:\Users\Ipfi Lidzhade\Documents\Computer Science\csc_302\prac 2\My Stuff\Problems\obj\Debug\netcoreapp1.1\Problems.pdb
